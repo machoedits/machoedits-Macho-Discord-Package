@@ -1,0 +1,7 @@
+{
+  "name": " Macho Discord Package",
+  "description": "Discord Data Package Viewer makes it easy to explore your discord data package.",
+  "repository": "https://github.com/machoedits/machoedits-Macho-Discord-package",
+  "logo": "https://machodiscordpackage.cf/favicon.ico",
+  "keywords": ["nextjs", "discord"]
+}
